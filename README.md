@@ -7,17 +7,17 @@ player application. A Simple music app with features like synchronized listening
 shared stored playlist (Distributed playlists), voting for songs in the playlist.
 
 Setting up the initial Application.
-a) Use the APK and install the application in an Android smartphone.
-b) Once the installation is successful launch the application.
-c) The next screen will provide an option for the user whether to Host a Party or Join an
+1. Use the APK and install the application in an Android smartphone.
+2. Once the installation is successful launch the application.
+3. The next screen will provide an option for the user whether to Host a Party or Join an
 existing Party.
-d) As soon as the Host or Member log’s in create a user profile.
-e) A Home screen will contain the below provided list.
-i) Synchronized playlist between all active users.
-ii) Add a song to the Playlist.
-iii) Voting if a user is dancing.
-iv) See all active members in the playlist.
-f) Leave a party
+4. As soon as the Host or Member log’s in create a user profile.
+5. A Home screen will contain the below provided list.
+6. Synchronized playlist between all active users.
+7. Add a song to the Playlist.
+8. Voting if a user is dancing.
+9. See all active members in the playlist.
+10. Leave a party
 **A user when join a part or host a party.
 
 Login into Application
