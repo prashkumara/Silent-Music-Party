@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Search party", should appear as action button if possible -->
+    <item
+        android:id="@+id/atn_profile"
+        android:icon="@drawable/profile_img"
+        android:title="View Profile"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/atn_direct_discover"
+        android:icon="@drawable/search_icon"
+        android:title="@string/action_search"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/atn_wifi_enable"
+        android:title="@string/power_on_wifi_button"
+        android:icon="@drawable/wifi_settings"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

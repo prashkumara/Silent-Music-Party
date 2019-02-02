@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lets Party</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="discover_peer">search peer</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="btn_share">Share</string>
+    <string name="connect_device">Connect to Device</string>
+    <string name="yes">Connect</string>
+    <string name="yes1">yes</string>
+    <string name="no">no</string>
+    <string name="cancel">Cancel</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="action_search">"Search party"</string>
+    <string name="action_host">"Become a host"</string>
+    <string name="power_on_wifi_button">"wifi settings"</string>
+    <string name="add_profile">"Add Profile"</string>
+    <string name="title_activity_host_vote_control">HostVoteControl</string>
+
+
+</resources>
